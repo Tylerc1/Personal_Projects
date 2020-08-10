@@ -1,2 +1,2 @@
 # Personal_Projects
-A repository for outside of school projects
+A repository for my projects
