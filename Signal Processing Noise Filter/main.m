@@ -1,8 +1,8 @@
-%Tyler Cascalho Cox 322 Hw Code
+%Tyler Cascalho Cox
 clear, clc
 
-% Opening the Text File for this homework so that it can be read
-fid = fopen('HW1_Data.txt','r');
+% Opening the Data Text File so it can be read
+fid = fopen('ExampleData.txt','r');
 
 %Reading the Text into a (2, length) matrix
 m = fscanf(fid,'%f %f',[2,Inf]);
